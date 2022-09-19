@@ -1,0 +1,7 @@
+"rn"	"deg.sub"	"bet.sub"	"clo.sub"	"eig.sub.vector"	"hubScore"	"Kingdom"	"Phylum"	"Class"	"Order"	"Family"	"Genus"	"Species"
+"1"	"BASV45"	1	0	0.111111111111111	0.397750809962601	0.397750809962601	"Bacteria"	"Actinobacteria"	"Actinobacteria"	"Propionibacteriales"	"Nocardioidaceae"	"Aeromicrobium"	"ginsengisoli"
+"2"	"FASV102"	2	0	0.125	0.660442249723743	0.660442249723743	"Fungi"	"Basidiomycota"	"Agaricomycetes"	"Auriculariales"	"Auriculariales_fam_Incertae_sedis"	"Oliveonia"	"pauxilla"
+"3"	"FASV147"	1	0	0.111111111111111	0.397750809962602	0.397750809962601	"Fungi"	"Ascomycota"	"Sordariomycetes"	"Sordariales"	"Lasiosphaeriaceae"	"Schizothecium"	"carpinicola"
+"4"	"FASV35"	1	0	0.111111111111111	0.397750809962601	0.397750809962601	"Fungi"	"Ascomycota"	"Dothideomycetes"	"Pleosporales"	"Pleosporaceae"	"Alternaria"	"subcucurbitae"
+"5"	"FASV66"	5	9	0.2	1	1	"Fungi"	"Ascomycota"	"Dothideomycetes"	"Botryosphaeriales"	"Botryosphaeriaceae"	"Macrophomina"	"phaseolina"
+"6"	"FASV69"	2	0	0.125	0.660442249723743	0.660442249723743	"Fungi"	"Ascomycota"	"Dothideomycetes"	"Pleosporales"	"Phaeosphaeriaceae"	"Paraphoma"	"radicina"

@@ -1,0 +1,7 @@
+"from"	"to"	"weight"	"color"	"arrow.size"
+"1"	"BASV45"	"FASV66"	1	"darkred"	5
+"2"	"FASV35"	"FASV66"	1	"darkred"	5
+"3"	"FASV66"	"FASV69"	1	"darkred"	5
+"4"	"FASV66"	"FASV102"	1	"darkgreen"	5
+"5"	"FASV69"	"FASV102"	1	"darkgreen"	5
+"6"	"FASV66"	"FASV147"	1	"darkgreen"	5
